@@ -1,0 +1,8 @@
+body {
+	font-family: cursive;
+}
+img {
+	height: 15%;
+	width: 15%;
+}
+.StandardScroll::-webkit-scrollbar-track{border:6px solid transparent;background-clip:padding-box;border-radius:10px;background-color:#ffffff;z-index:100}.StandardScroll::-webkit-scrollbar{width:18px;height:18px;z-index:99}.StandardScroll::-webkit-scrollbar-thumb{border:6px solid transparent;background-clip:padding-box;min-height:45px;border-radius:10px;background-color:#ffffff;z-index:100}body::-webkit-scrollbar-track{border:6px solid transparent;background-clip:padding-box;border-radius:10px;background-color:#ffffff}body::-webkit-scrollbar{width:18px;height:18px;background-color:#ffffff}body::-webkit-scrollbar-thumb{border:6px solid transparent;background-clip:padding-box;min-height:45px;border-radius:10px;background-color:#ffffff}body::-webkit-scrollbar-corner{background:transparent}:focus{transition:all .04s ease;outline:solid;outline-width:3px;outline-color:#ffffff}
